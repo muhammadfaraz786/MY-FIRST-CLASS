@@ -1,0 +1,6 @@
+# class hala():
+#     def identify(self,a):
+#         print("how r you !",a)
+
+# a=hala()
+# a.identify("faraz")
