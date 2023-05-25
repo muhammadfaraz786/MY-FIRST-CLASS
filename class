@@ -1,4 +1,4 @@
-# class hala():
+# class hala:
 #     def identify(self,a):
 #         print("how r you !",a)
 
